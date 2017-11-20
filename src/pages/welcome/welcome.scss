@@ -1,0 +1,15 @@
+page-welcome {
+  #welcome{
+    background: color($colors, darkbanana);
+    h1{
+      font-size: 52px;
+      margin-top: 50px;
+    }
+    #btnLogin {
+      margin-top: 50px;
+    }
+    img{
+     margin-top: 30px; 
+    }
+  }
+}
